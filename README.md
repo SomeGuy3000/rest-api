@@ -32,10 +32,10 @@ To run app.js type in cmd:
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Function | Request method | Request URL |
+| ------------- | ------------- | ------------- |
+| Get title by id  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 
 
