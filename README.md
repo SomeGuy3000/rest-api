@@ -64,3 +64,8 @@ In request URL " :id " mean title id from database
 		```
 
 	Create new row!
+	
+	
+## How to send request?
+
+	You may send request using postman! Try it!
