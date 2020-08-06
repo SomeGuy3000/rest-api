@@ -55,11 +55,12 @@ In request URL " :id " mean title id from database
 		"http://localhost:3000/api/titles/"
 	
 	with JSON data:
-
+		```json
 		{
         		"title": "Some title",
        		 	"lead": "some lead",
         		"content": "Some content"
 		}
+		```
 
 	Create new row!
