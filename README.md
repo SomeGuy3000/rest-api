@@ -1,15 +1,15 @@
 # rest-api app
 
-##Main api file:
+## Main api file:
 
 	app.js
 
 
-##Setup database config in file:
+## Setup database config in file:
 
 	config.json
 
-##Example setup:
+## Example setup:
 
 {
     "host": 	"localhost",
@@ -26,13 +26,13 @@ database - 	database name
 
 
 
-##To run app.js type in cmd:
+## To run app.js type in cmd:
 *************************************************************
 	node app
 *************************************************************
 Express listen on port "3000"
 
-##Allowed queries
+## Allowed queries
 
 
 | Function 		| Request method 	| Request URL 		|
@@ -48,7 +48,7 @@ In request URL " :id " mean title id from database
 
 
 
-##Sample query:
+## Sample query:
 	using POST method on URL:
 
 		"http://localhost:3000/api/titles/"
