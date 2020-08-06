@@ -37,15 +37,15 @@ To run app.js type in cmd:
 Function	   |Request method		|Request URL
 -------------------|----------------------------|----------------
 
-Get title by id	|GET|/api/titles/:id
+|Get title by id|GET|/api/titles/:id|
 
-Get all titles|GET|/api/titles
+|Get all titles|GET|/api/titles|
 
-Add new title|POST|/api/titles
+|Add new title|POST|/api/titles|
 
-Edit title by id|PUT|/api/titles/:id
+|Edit title by id|PUT|/api/titles/:id|
 
-Delete user by id|DELETE|/api/titles/:id
+|Delete user by id|DELETE|/api/titles/:id|
 
 
 
