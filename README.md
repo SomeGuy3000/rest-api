@@ -34,8 +34,8 @@ To run app.js type in cmd:
 
 | Function | Request method | Request URL |
 | ------------- | ------------- | ------------- |
-| Get title by id  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Get title by id  | GET  | /api/titles/:id  |
+| Get all titles  | GET  | /api/titles  |
 
 
 
