@@ -1,14 +1,15 @@
-# rest-api
-Main api file:
+# rest-api app
+
+##Main api file:
 
 	app.js
 
 
-Setup database config in file:
+##Setup database config in file:
 
 	config.json
 
-Example setup:
+##Example setup:
 
 {
     "host": 	"localhost",
@@ -25,11 +26,13 @@ database - 	database name
 
 
 
-To run app.js type in cmd:
+##To run app.js type in cmd:
 *************************************************************
 	node app
 *************************************************************
+Express listen on port "3000"
 
+##Allowed queries
 
 
 | Function 		| Request method 	| Request URL 		|
@@ -41,14 +44,11 @@ To run app.js type in cmd:
 | Delete user by id  	| DELETE 		| /api/titles/:id  	|
 
 
-
-
 In request URL " :id " mean title id from database
 
 
-Express listen on port "3000"
 
-Sample query:
+##Sample query:
 	using POST method on URL:
 
 		"http://localhost:3000/api/titles/"
