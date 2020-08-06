@@ -35,7 +35,7 @@ To run app.js type in cmd:
 
 
 Function	   |Request method		|Request URL
-____________________________________________________________________
+-------------------|----------------------------|----------------
 
 Get title by id	   |GET 			|/api/titles/:id
 
@@ -61,10 +61,10 @@ Sample query:
 	
 	with JSON data:
 
-		{
+		"{
         		"title": "Some title",
        		 	"lead": "some lead",
         		"content": "Some content"
-		}
+		}"
 
 	Create new row!
