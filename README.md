@@ -1,12 +1,12 @@
 # rest-api
 Main api file:
 
-	```app.js```
+	app.js
 
 
 Setup database config in file:
 
-	```config.json```
+	config.json
 
 Example setup:
 
@@ -55,10 +55,10 @@ Sample query:
 	
 	with JSON data:
 
-		```{
+		{
         		"title": "Some title",
        		 	"lead": "some lead",
         		"content": "Some content"
-		}```
+		}
 
 	Create new row!
