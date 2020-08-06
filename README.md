@@ -10,13 +10,14 @@
 	config.json
 
 ## Example setup:
-
+```json
 {
     "host": 	"localhost",
     "user": 	"root",
     "password": "root-passwd",
     "database": "dbname"
 }
+```
 
 host 	 - 	hostname
 user 	 - 	database username
